@@ -1,4 +1,4 @@
-#include "binary_trees.h"
+#include "binary.h"
 
 /**
  * binary_tree_node - Creates a binary tree node.
